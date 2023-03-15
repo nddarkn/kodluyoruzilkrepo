@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 
-![RESİM](C:\Users\ARIKAN\Desktop\bademagaci.jpg)
+![RESİM](C:\Users\ARIKAN\Desktop\GitHub\kodluyoruzilkrepo\bademagaci.jpg)
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 [Patikadev-Kodluyoruz](https://github.com/Kodluyoruz) Front-end eğitimindeki ilk repo içinde readme bir de index.html çalışma sayfası bulunmaktadır.
@@ -32,3 +32,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Project Image
+
+![project image](http://www.vggallery.com/painting/f_0671.jpg)
