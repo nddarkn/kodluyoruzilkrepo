@@ -1,9 +1,9 @@
 # kodluyoruzilkrepo
 
-![RESİM](C:\Users\ARIKAN\Desktop\GitHub\kodluyoruzilkrepo\bademagaci.jpg)
+![RESİM](C:\Users\ARIKAN\Desktop\GitHub\kodluyoruzilkrepo\images\bademagaci.jpg)
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-[Patikadev-Kodluyoruz](https://github.com/Kodluyoruz) Front-end eğitimindeki ilk repo içinde readme bir de index.html çalışma sayfası bulunmaktadır.
+[Patikadev-Kodluyoruz](https://github.com/Kodluyoruz) Front-end eğitimindeki ilk repo içinde readme, index.html, filmler.html, yazarlar.html, çalışma sayfası bulunmaktadır.
 
 ## İnstallation
 
@@ -36,3 +36,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Project Image
 
 ![project image](http://www.vggallery.com/painting/f_0671.jpg)
+Bütün ödevleri ve çalışmaları patika.dev platformuna Van Gogh badem ağacı tablosu ile yüklendi.
+
+## Project Work
+
+Bu proje şu anda sadece html kodları bulunmakta ve yavaş yavaş geliştirilmektedir. Amaç Web platformunu öğrenmek ve denemektir.
