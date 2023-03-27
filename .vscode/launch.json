@@ -4,6 +4,7 @@
   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
   "version": "0.2.0",
   "configurations": [
+  
     {
       "name": "Attach to Chrome",
       "port": 9222,
@@ -17,5 +18,12 @@
       "name": "Open yazarlar.html",
       "file": "c:\\Users\\ARIKAN\\Desktop\\GitHub\\kodluyoruzilkrepo\\kodluyoruzilkrepo\\yazarlar.html"
     }
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Open index.html",
+      "file": "c:\\Users\\ARIKAN\\Desktop\\GitHub\\kodluyoruzilkrepo\\kodluyoruzilkrepo\\index.html"
+    }
+
   ]
 }
